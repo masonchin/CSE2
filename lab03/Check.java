@@ -15,7 +15,7 @@ public class Check {
         //prompts user to enter original cost of the check
         System.out.print("Enter the original cost of the check in the form xx.xx: ");
         
-        //accepts user input'
+        //accepts user input
         double checkCost = myScanner.nextDouble();
         
         //prompts user for tip percentage and accepts user input
